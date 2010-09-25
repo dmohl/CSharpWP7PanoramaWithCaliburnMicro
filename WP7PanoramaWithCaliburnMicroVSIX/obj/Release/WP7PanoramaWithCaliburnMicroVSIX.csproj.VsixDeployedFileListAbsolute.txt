@@ -1,0 +1,5 @@
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\C# WP7 Panorama with Caliburn.Micro\1.0\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\C# WP7 Panorama with Caliburn.Micro\1.0\ProjectTemplates\Silverlight for Windows Phone\\WP7App.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\C# WP7 Panorama with Caliburn.Micro\1.0\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\C# WP7 Panorama with Caliburn.Micro\1.0\\WP7PanoramaScreenShot.png
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\C# WP7 Panorama with Caliburn.Micro\1.0\ProjectTemplates\Windows Phone\\WP7App.zip

@@ -1,0 +1,9 @@
+C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\bin\Release\MicrosoftPublicLicense.txt
+C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\bin\Release\WP7PanoramaScreenShot.png
+C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\bin\Release\WP7PanoramaWithCaliburnMicroVSIX.vsix
+C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\bin\Release\extension.vsixmanifest
+C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\obj\Release\ResolveAssemblyReference.cache
+C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\obj\Release\WP7PanoramaWithCaliburnMicroVSIX.dll
+C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\obj\Release\WP7PanoramaWithCaliburnMicroVSIX.pdb
+C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\obj\Release\extension.vsixmanifest
+C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\bin\Release\ProjectTemplates\Windows Phone\WP7App.zip
