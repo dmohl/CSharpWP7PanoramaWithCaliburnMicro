@@ -1,6 +1,6 @@
-﻿<xapCache source="C:\git\WP7PanoramaWithCaliburnMicro\WP7App\Bin\Release\WP7App.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="9/25/2010 10:05:02 AM">
+﻿<xapCache source="C:\git\WP7PanoramaWithCaliburnMicro\WP7App\Bin\Release\WP7App.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="9/26/2010 9:51:41 AM">
   <file source="C:\git\WP7PanoramaWithCaliburnMicro\WP7App\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="9/25/2010 9:58:35 AM" />
-  <file source="C:\git\WP7PanoramaWithCaliburnMicro\WP7App\obj\Release\WP7App.dll" archivePath="WP7App.dll" lastWriteTime="9/25/2010 10:05:02 AM" />
+  <file source="C:\git\WP7PanoramaWithCaliburnMicro\WP7App\obj\Release\WP7App.dll" archivePath="WP7App.dll" lastWriteTime="9/26/2010 9:51:41 AM" />
   <file source="C:\git\WP7PanoramaWithCaliburnMicro\WP7App\Dependencies\Caliburn.Micro.dll" archivePath="Caliburn.Micro.dll" lastWriteTime="9/25/2010 9:24:28 AM" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.0\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="9/1/2010 3:51:10 AM" />
   <file source="c:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="9/1/2010 1:41:46 AM" />

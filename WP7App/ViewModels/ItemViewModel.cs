@@ -10,10 +10,11 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Shapes;
+using Caliburn.Micro;
 
 namespace WP7App
 {
-    public class ItemViewModel : INotifyPropertyChanged
+    public class ItemViewModel : PropertyChangedBase
     {
         private string _lineOne;
         /// <summary>
@@ -31,7 +32,7 @@ namespace WP7App
                 if (value != _lineOne)
                 {
                     _lineOne = value;
-                    NotifyPropertyChanged("LineOne");
+                    NotifyOfPropertyChange(() => LineOne);
                 }
             }
         }
@@ -52,7 +53,7 @@ namespace WP7App
                 if (value != _lineTwo)
                 {
                     _lineTwo = value;
-                    NotifyPropertyChanged("LineTwo");
+                    NotifyOfPropertyChange(() => LineTwo);
                 }
             }
         }
@@ -73,18 +74,8 @@ namespace WP7App
                 if (value != _lineThree)
                 {
                     _lineThree = value;
-                    NotifyPropertyChanged("LineThree");
+                    NotifyOfPropertyChange(() => LineThree);
                 }
-            }
-        }
-
-        public event PropertyChangedEventHandler PropertyChanged;
-        private void NotifyPropertyChanged(String propertyName)
-        {
-            PropertyChangedEventHandler handler = PropertyChanged;
-            if (null != handler)
-            {
-                handler(this, new PropertyChangedEventArgs(propertyName));
             }
         }
     }

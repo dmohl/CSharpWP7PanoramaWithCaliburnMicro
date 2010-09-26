@@ -6,4 +6,4 @@ C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\obj\Release
 C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\obj\Release\WP7PanoramaWithCaliburnMicroVSIX.dll
 C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\obj\Release\WP7PanoramaWithCaliburnMicroVSIX.pdb
 C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\obj\Release\extension.vsixmanifest
-C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\bin\Release\ProjectTemplates\Windows Phone\WP7App.zip
+C:\git\WP7PanoramaWithCaliburnMicro\WP7PanoramaWithCaliburnMicroVSIX\bin\Release\ProjectTemplates\Silverlight for Windows Phone\WP7App.zip

@@ -1,12 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
   <Identifier Id="WP7PanoramaWithCaliburnMicroVSIX.Microsoft.6ac893be-370a-44b0-b351-bd2e3aaeb350">
-    <Name>C# WP7 Panorama with Caliburn.Micro</Name>
+    <Name>C# WP7 with Caliburn.Micro</Name>
     <Author>Daniel Mohl</Author>
-    <Version>1.0</Version>
-    <Description xml:space="preserve">Note:Install the WP7 developer tools (http://developer.windowsphone.com/) before use.</Description>
+    <Version>1.1</Version>
+    <Description xml:space="preserve">C# Windows Phone 7 Panorama with Caliburn.Micro
+Note:Install the WP7 developer tools (http://developer.windowsphone.com/) before use.</Description>
     <Locale>1033</Locale>
+    <MoreInfoUrl>http://visualstudiogallery.msdn.microsoft.com/en-us/ed6f38a8-c986-4d26-8846-988d49c8a26a?SRC=Home</MoreInfoUrl>
     <License>MicrosoftPublicLicense.txt</License>
+    <Icon>WP7PanoramaScreenShot.png</Icon>
     <PreviewImage>WP7PanoramaScreenShot.png</PreviewImage>
     <SupportedProducts>
       <VisualStudio Version="10.0">
