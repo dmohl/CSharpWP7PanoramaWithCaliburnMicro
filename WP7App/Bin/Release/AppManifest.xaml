@@ -2,6 +2,7 @@
   <Deployment.Parts>
     <AssemblyPart x:Name="WP7App" Source="WP7App.dll" />
     <AssemblyPart x:Name="Caliburn.Micro" Source="Caliburn.Micro.dll" />
+    <AssemblyPart x:Name="Caliburn.Micro.Extensions" Source="Caliburn.Micro.Extensions.dll" />
     <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
     <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
   </Deployment.Parts>

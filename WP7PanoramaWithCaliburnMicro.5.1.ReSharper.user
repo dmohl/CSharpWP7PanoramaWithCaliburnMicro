@@ -1,0 +1,43 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="bootstrapper" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Windows" priority="0" />
+      <Item value="Controls" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B981A8BB-58FF-4217-8C4D-43B59D920FD3/f:App.xaml.cs" caret="0" fromTop="0" />
+      <File id="B981A8BB-58FF-4217-8C4D-43B59D920FD3/f:Bootstrapper.cs" caret="530" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B981A8BB-58FF-4217-8C4D-43B59D920FD3/f:Bootstrapper.cs" caret="478" fromTop="6" />
+      <File id="B981A8BB-58FF-4217-8C4D-43B59D920FD3/f:Bootstrapper.cs" caret="240" fromTop="4" />
+      <File id="B981A8BB-58FF-4217-8C4D-43B59D920FD3/f:Bootstrapper.cs" caret="219" fromTop="4" />
+      <File id="B981A8BB-58FF-4217-8C4D-43B59D920FD3/f:Bootstrapper.cs" caret="426" fromTop="14" />
+      <File id="B981A8BB-58FF-4217-8C4D-43B59D920FD3/f:Bootstrapper.cs" caret="530" fromTop="8" />
+      <File id="B981A8BB-58FF-4217-8C4D-43B59D920FD3/f:Bootstrapper.cs" caret="1093" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
